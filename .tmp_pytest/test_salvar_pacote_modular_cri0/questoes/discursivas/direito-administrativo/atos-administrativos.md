@@ -1,0 +1,21 @@
+# Questões Discursivas - Atos Administrativos
+
+Disciplina: Direito Administrativo
+
+### Questão discursiva 1
+Explique Atos Administrativos com base no material estudado, indicando conceito, aplicação prática e cuidado de prova.
+
+**Espelho mínimo**
+- **Fato:** Direito administrativo exige legalidade, motivação e controle dos atos administrativos.
+- **Fundamento:** Indicar a base legal pertinente somente após conferência em legislação atualizada.
+- **Risco:** Confundir regra geral com exceção ou citar fundamento desatualizado.
+- **Próximo passo:** Resolver questões e registrar pontos fracos da resposta.
+
+### Questão discursiva 2
+Relacione Atos Administrativos com OAB ou concursos policiais, destacando uma pegadinha provável e uma forma de evitá-la.
+
+**Espelho mínimo**
+- **Fato:** Direito administrativo exige legalidade, motivação e controle dos atos administrativos.
+- **Fundamento:** Vincular o raciocínio ao texto estudado e à legislação aplicável conferida.
+- **Risco:** Responder de modo abstrato sem enfrentar o problema apresentado.
+- **Próximo passo:** Reescrever a resposta com conclusão objetiva e linguagem de prova.
